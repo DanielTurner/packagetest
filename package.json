@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "commonjs": "^0.0.1",
+    "esmodule": "^0.2.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "name": "parceltest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
