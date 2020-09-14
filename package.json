@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@uirouter/angularjs": "^1.0.3",
-    "angular": "^1.8.0",
+    "angular": "^1.2.16",
     "angular-route": "1.6.8",
     "angular-sanitize": "^1.6.4",
     "bootstrap": "^3.3.7",
