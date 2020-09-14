@@ -4,8 +4,14 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "@uirouter/angularjs": "^1.0.3",
+    "angular": "^1.8.0",
+    "angular-route": "1.6.8",
+    "angular-sanitize": "^1.6.4",
+    "bootstrap": "^3.3.7",
     "commonjs": "^0.0.1",
     "esmodule": "^0.2.1",
+    "jquery": "^3.2.1",
     "parcel-bundler": "^1.12.4"
   },
   "name": "parceltest",
